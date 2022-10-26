@@ -108,5 +108,5 @@ r = pow(2,max1) + pow(2, max2) + pow(2, max3)    # find 2^R of each where R is t
 
 x = r/3         # find its average (in our case its 3 )
 
-print(x)        # and boom you have successfully implemented faljolet martin algorithm 
+print(x)        
        
